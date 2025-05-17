@@ -1,5 +1,5 @@
 # EKS-Installation-and-App-Deploy-with-Ingress
-Here i have worked with  AWS EKS and deployed a real-time 2048 game application and expose it to outside world using Ingress and ALB Ingress Controller. 
+Here I have worked with  AWS EKS and deployed a real-time 2048 game application and expose it to outside world using Ingress and ALB Ingress Controller. 
 
 kubectl – A command line tool for working with Kubernetes clusters. For more information, see Installing or updating kubectl.Download using google search 
 
